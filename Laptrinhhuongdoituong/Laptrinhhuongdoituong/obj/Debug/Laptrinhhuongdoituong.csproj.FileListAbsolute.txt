@@ -1,0 +1,63 @@
+c:\users\thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe
+c:\users\thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.pdb
+c:\users\thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache
+c:\users\thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+c:\users\thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\Thang\documents\visual studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.dll
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.dll
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.xml
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thang\Documents\Visual Studio 2013\Projects\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.pdb
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.dll
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.dll
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.xml
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
+E:\Tai Lieu Mon Hoc\LT Huong Doi Tuong\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache
+G:\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+G:\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+G:\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.dll
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.dll
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.xml
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache
+C:\Users\JonnyNguyen\Desktop\Coppy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\SQLite.NET.dll
+C:\Users\JonnyNguyen\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\JonnyNguyen\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+C:\Users\JonnyNguyen\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.exe
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.exe
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\Laptrinhhuongdoituong.pdb
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.dll
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.dll
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.xml
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\bin\Debug\System.Data.SQLite.xml
+C:\Users\lichnt\Desktop\Copy\Laptrinhhuongdoituong\Laptrinhhuongdoituong\obj\Debug\Laptrinhhuongdoituong.csprojResolveAssemblyReference.cache
