@@ -1,2 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaiTapGiuaKy.XuLyFile">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAgAACAJAAIgAQAAAACAEAAAgAQAAgCEA=</HashCode>
+      <FileName>docdulieu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTapGiuaKy.Program">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTapGiuaKy.Sinhvien">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEYAAAAAAIAAQACAIEAIAAQhABICAAQAAgAQICACAA=</HashCode>
+      <FileName>Sinhvien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

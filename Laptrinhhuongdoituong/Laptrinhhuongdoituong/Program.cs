@@ -12,10 +12,10 @@ namespace BaiTapGiuaKy
         static void Main(string[] args)
         {
             Sinhvien[] sv = new Sinhvien[100];
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 100; i++)
             {
-                sv[i] = new Sinhvien();
-                sv[i]._LayGiaTri(i+4300);
+                sv[i] = new Sinhvien();        
+                sv[i]._LayGiaTri(i+2100);
                 sv[i]._XuLyDiemDauVao();
                 for (int j = 0; j < 4; j++)
                         if(sv[i].Ketqua[j]>0)
